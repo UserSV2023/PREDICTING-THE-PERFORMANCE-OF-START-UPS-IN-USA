@@ -10,7 +10,7 @@ Startups have become a vital contributor to economic growth by bringing new idea
 Following are the variables present in the dataset along with their description.
 
 S. No.	Variables	Type	Description
-1	state_code	Chr	Shows the state codes /n
+1	state_code	Chr	Shows the state codes \n
 2	latitude	Num	Shows the latitude for geographical location
 3	longitude	Num	Shows the longitude for geographical location
 4	zip_code	Chr	Shows the zip code
